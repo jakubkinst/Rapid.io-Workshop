@@ -19,7 +19,7 @@
 		</activity>
 
 		<meta-data
-			android:name="io.rapid.apikey" android:value="MTQwdDAxZTFqNmRpZXN4Yy5hcHAtcmFwaWQuaW8=" />
+			android:name="io.rapid.apikey" android:value="YThqODFpYzF6bS5hcHAtcmFwaWQuaW8=" />
 	</application>
 
 </manifest>

@@ -42,4 +42,7 @@ dependencies {
 
 	// Rapid.io
 	implementation 'io.rapid:rapid-sdk-android:1.0.19'
+
+	implementation 'me.tatarka.bindingcollectionadapter2:bindingcollectionadapter:2.2.0'
+	implementation 'me.tatarka.bindingcollectionadapter2:bindingcollectionadapter-recyclerview:2.2.0'
 }
